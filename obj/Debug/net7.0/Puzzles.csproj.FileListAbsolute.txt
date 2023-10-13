@@ -1,0 +1,15 @@
+C:\Users\david\OneDrive\Escritorio\csharp console\Puzzles\bin\Debug\net7.0\Puzzles.exe
+C:\Users\david\OneDrive\Escritorio\csharp console\Puzzles\bin\Debug\net7.0\Puzzles.deps.json
+C:\Users\david\OneDrive\Escritorio\csharp console\Puzzles\bin\Debug\net7.0\Puzzles.runtimeconfig.json
+C:\Users\david\OneDrive\Escritorio\csharp console\Puzzles\bin\Debug\net7.0\Puzzles.dll
+C:\Users\david\OneDrive\Escritorio\csharp console\Puzzles\bin\Debug\net7.0\Puzzles.pdb
+C:\Users\david\OneDrive\Escritorio\csharp console\Puzzles\obj\Debug\net7.0\Puzzles.csproj.AssemblyReference.cache
+C:\Users\david\OneDrive\Escritorio\csharp console\Puzzles\obj\Debug\net7.0\Puzzles.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\david\OneDrive\Escritorio\csharp console\Puzzles\obj\Debug\net7.0\Puzzles.AssemblyInfoInputs.cache
+C:\Users\david\OneDrive\Escritorio\csharp console\Puzzles\obj\Debug\net7.0\Puzzles.AssemblyInfo.cs
+C:\Users\david\OneDrive\Escritorio\csharp console\Puzzles\obj\Debug\net7.0\Puzzles.csproj.CoreCompileInputs.cache
+C:\Users\david\OneDrive\Escritorio\csharp console\Puzzles\obj\Debug\net7.0\Puzzles.dll
+C:\Users\david\OneDrive\Escritorio\csharp console\Puzzles\obj\Debug\net7.0\refint\Puzzles.dll
+C:\Users\david\OneDrive\Escritorio\csharp console\Puzzles\obj\Debug\net7.0\Puzzles.pdb
+C:\Users\david\OneDrive\Escritorio\csharp console\Puzzles\obj\Debug\net7.0\Puzzles.genruntimeconfig.cache
+C:\Users\david\OneDrive\Escritorio\csharp console\Puzzles\obj\Debug\net7.0\ref\Puzzles.dll
